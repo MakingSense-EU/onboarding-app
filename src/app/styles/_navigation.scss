@@ -114,6 +114,7 @@ $button-height: $segueWrapperHeight / 2.75;
       color: $SCK2-blue;
       background: $SCKwhite;
       border-color: $SCK2-blue;
+      text-transform: capitalize;
 
       #segueContent {
         overflow: hidden;
